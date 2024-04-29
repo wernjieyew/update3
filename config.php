@@ -1,6 +1,6 @@
 <?php
 $currency = '₹';
-$db_username = 'root';
+$db_username = 'admin';
 $db_password = 'database';
 $db_name = 'bolt';
 $db_host = 'test2.cve8wc6o4b25.us-east-1.rds.amazonaws.com';
